@@ -1,3 +1,6 @@
 # This is a comment
 
-print("hello world")
+def main(msg):
+    print(msg)
+
+main("Hello world!")
